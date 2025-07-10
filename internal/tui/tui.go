@@ -62,8 +62,8 @@ var keys = keyMap{
 	),
 
 	Commands: key.NewBinding(
-		key.WithKeys("ctrl+k"),
-		key.WithHelp("ctrl+k", "commands"),
+		key.WithKeys("ctrl+g"),
+		key.WithHelp("ctrl+g", "commands"),
 	),
 	Filepicker: key.NewBinding(
 		key.WithKeys("ctrl+f"),

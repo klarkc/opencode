@@ -45,3 +45,7 @@ Thumbs.db
 
 opencode
 opencode.md
+opencode-debug-*-x86_64.pkg.tar.zst
+opencode-*-x86_64.pkg.tar.zst
+pkg/
+src/
